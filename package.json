@@ -1,0 +1,17 @@
+{
+  "name": "chatclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "snowpack dev"
+  },
+  "author": "Seun Daniel Omatsola",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.5.0"
+  }
+}
