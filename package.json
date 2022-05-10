@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "snowpack dev"
+    "start": "snowpack dev"
   },
   "author": "Seun Daniel Omatsola",
   "license": "ISC",
